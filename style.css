@@ -1,0 +1,36 @@
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin:auto;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 14px;
+}
+ul li a{
+    text-decoration: none;
+    color:#c32424;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+
+}
+ul li a:hover{
+    color:rgb(85, 77, 77);
+}
+
+
+h1{
+    font-family: 'Times New Roman';
+}
+.d-flex{
+    padding: right 100000px;
+}
