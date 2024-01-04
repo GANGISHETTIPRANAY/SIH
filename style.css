@@ -34,3 +34,9 @@ h1{
 .d-flex{
     padding: right 100000px;
 }
+.background-images{
+    background-image: url("https://www.tourmyindia.com/blog//wp-content/uploads/2022/07/Best-Places-to-Visit-in-Srinagar-Kashmir.jpg");
+    background-size: cover;
+    height: 100vh;
+
+}
